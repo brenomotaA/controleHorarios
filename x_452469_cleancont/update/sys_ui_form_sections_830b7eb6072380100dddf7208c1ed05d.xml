@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="830b7eb6072380100dddf7208c1ed05d" sys_domain="global" table="x_452469_cleancont_projeto" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-18 13:20:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d8bf2f6072380100dddf7208c1ed00a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_452469_cleancont_projeto" name="x_452469_cleancont_projeto" sys_domain="global" view="Default view">830b7eb6072380100dddf7208c1ed05d</sys_ui_form>
+            <sys_ui_section caption="Qual o projeto que você vai iniciar ?" display_value="Qual o projeto que você vai iniciar ?" name="x_452469_cleancont_projeto" sys_domain="global" view="Default view">558bb2f6072380100dddf7208c1ed0c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-18 13:20:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-18 13:32:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>752e7e3a072380100dddf7208c1ed0b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_452469_cleancont_projeto" name="x_452469_cleancont_projeto" sys_domain="global" view="Default view">830b7eb6072380100dddf7208c1ed05d</sys_ui_form>
+            <sys_ui_section caption="Trabalhando agora" display_value="Trabalhando agora" name="x_452469_cleancont_projeto" sys_domain="global" view="Default view">792e7e3a072380100dddf7208c1ed0b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-18 13:32:17</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-18 13:32:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd2e7e3a072380100dddf7208c1ed0f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_452469_cleancont_projeto" name="x_452469_cleancont_projeto" sys_domain="global" view="Default view">830b7eb6072380100dddf7208c1ed05d</sys_ui_form>
+            <sys_ui_section caption="Nos conte mais" display_value="Nos conte mais" name="x_452469_cleancont_projeto" sys_domain="global" view="Default view">f52e7e3a072380100dddf7208c1ed0b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-18 13:32:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_452469_cleancont_projeto</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-18 13:18:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>830b7eb6072380100dddf7208c1ed05d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_452469_cleancont_projeto</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="cleanControl" source="x_452469_cleancont">f175322e07a740100dddf7208c1ed005</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="cleanControl">f175322e07a740100dddf7208c1ed005</sys_scope>
+            <sys_update_name>sys_ui_form_sections_830b7eb6072380100dddf7208c1ed05d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-18 13:18:44</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

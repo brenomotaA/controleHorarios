@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Controle_horario" max_length="40" name="x_452469_cleancont_controle_horario" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Atividade" max_length="125" name="atividade" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="descrição" max_length="1000" name="desc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="descrição breve" max_length="125" name="desc_breve" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Inicio" max_length="40" name="inicio" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Código" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Termino" max_length="40" name="termino" type="glide_date_time"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_452469_cleancont_controle_horario" label="Projeto" max_length="40" name="x_452469_cleancont_projeto" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Prjeto" max_length="255" name="u_projeto" type="string_full_utf8"/>
+    </element>
+</database>

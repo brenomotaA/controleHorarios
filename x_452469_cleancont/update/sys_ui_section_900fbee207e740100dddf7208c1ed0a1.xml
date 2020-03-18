@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="em oque você esta trabalhando agora?" section_id="900fbee207e740100dddf7208c1ed0a1" sys_domain="global" table="x_452469_cleancont_controle_horario" version="3" view="Avancado">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>atividade</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:57:33</sys_created_on>
+            <sys_id>240fbee207e740100dddf7208c1ed0a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="em oque você esta trabalhando agora?" display_value="em oque você esta trabalhando agora?" name="x_452469_cleancont_controle_horario" sys_domain="global" view="d80fbee207e740100dddf7208c1ed09d">900fbee207e740100dddf7208c1ed0a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:57:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:57:33</sys_created_on>
+            <sys_id>a80fbee207e740100dddf7208c1ed0a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="em oque você esta trabalhando agora?" display_value="em oque você esta trabalhando agora?" name="x_452469_cleancont_controle_horario" sys_domain="global" view="d80fbee207e740100dddf7208c1ed09d">900fbee207e740100dddf7208c1ed0a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:57:33</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>inicio</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:57:33</sys_created_on>
+            <sys_id>200fbee207e740100dddf7208c1ed0a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="em oque você esta trabalhando agora?" display_value="em oque você esta trabalhando agora?" name="x_452469_cleancont_controle_horario" sys_domain="global" view="d80fbee207e740100dddf7208c1ed09d">900fbee207e740100dddf7208c1ed0a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:57:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>termino</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:57:33</sys_created_on>
+            <sys_id>a40fbee207e740100dddf7208c1ed0a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="em oque você esta trabalhando agora?" display_value="em oque você esta trabalhando agora?" name="x_452469_cleancont_controle_horario" sys_domain="global" view="d80fbee207e740100dddf7208c1ed09d">900fbee207e740100dddf7208c1ed0a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:57:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:57:33</sys_created_on>
+            <sys_id>2c0fbee207e740100dddf7208c1ed0a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="em oque você esta trabalhando agora?" display_value="em oque você esta trabalhando agora?" name="x_452469_cleancont_controle_horario" sys_domain="global" view="d80fbee207e740100dddf7208c1ed09d">900fbee207e740100dddf7208c1ed0a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:57:33</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>desc_breve</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:57:33</sys_created_on>
+            <sys_id>a00fbee207e740100dddf7208c1ed0a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="em oque você esta trabalhando agora?" display_value="em oque você esta trabalhando agora?" name="x_452469_cleancont_controle_horario" sys_domain="global" view="d80fbee207e740100dddf7208c1ed09d">900fbee207e740100dddf7208c1ed0a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:57:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>desc</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:57:33</sys_created_on>
+            <sys_id>280fbee207e740100dddf7208c1ed0a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="em oque você esta trabalhando agora?" display_value="em oque você esta trabalhando agora?" name="x_452469_cleancont_controle_horario" sys_domain="global" view="d80fbee207e740100dddf7208c1ed09d">900fbee207e740100dddf7208c1ed0a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:57:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:57:33</sys_created_on>
+            <sys_id>ac0fbee207e740100dddf7208c1ed0a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="em oque você esta trabalhando agora?" display_value="em oque você esta trabalhando agora?" name="x_452469_cleancont_controle_horario" sys_domain="global" view="d80fbee207e740100dddf7208c1ed09d">900fbee207e740100dddf7208c1ed0a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:57:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:57:33</sys_created_on>
+            <sys_id>240fbee207e740100dddf7208c1ed0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="em oque você esta trabalhando agora?" display_value="em oque você esta trabalhando agora?" name="x_452469_cleancont_controle_horario" sys_domain="global" view="d80fbee207e740100dddf7208c1ed09d">900fbee207e740100dddf7208c1ed0a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:57:33</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:57:33</sys_created_on>
+            <sys_id>a80fbee207e740100dddf7208c1ed0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="em oque você esta trabalhando agora?" display_value="em oque você esta trabalhando agora?" name="x_452469_cleancont_controle_horario" sys_domain="global" view="d80fbee207e740100dddf7208c1ed09d">900fbee207e740100dddf7208c1ed0a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:57:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:57:33</sys_created_on>
+            <sys_id>ac0fbee207e740100dddf7208c1ed0c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="em oque você esta trabalhando agora?" display_value="em oque você esta trabalhando agora?" name="x_452469_cleancont_controle_horario" sys_domain="global" view="d80fbee207e740100dddf7208c1ed09d">900fbee207e740100dddf7208c1ed0a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:57:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:57:33</sys_created_on>
+            <sys_id>240fbee207e740100dddf7208c1ed0c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="em oque você esta trabalhando agora?" display_value="em oque você esta trabalhando agora?" name="x_452469_cleancont_controle_horario" sys_domain="global" view="d80fbee207e740100dddf7208c1ed09d">900fbee207e740100dddf7208c1ed0a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:57:33</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:57:33</sys_created_on>
+            <sys_id>a80fbee207e740100dddf7208c1ed0c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="em oque você esta trabalhando agora?" display_value="em oque você esta trabalhando agora?" name="x_452469_cleancont_controle_horario" sys_domain="global" view="d80fbee207e740100dddf7208c1ed09d">900fbee207e740100dddf7208c1ed0a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:57:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:57:33</sys_created_on>
+            <sys_id>200fbee207e740100dddf7208c1ed0c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="em oque você esta trabalhando agora?" display_value="em oque você esta trabalhando agora?" name="x_452469_cleancont_controle_horario" sys_domain="global" view="d80fbee207e740100dddf7208c1ed09d">900fbee207e740100dddf7208c1ed0a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:57:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:57:33</sys_created_on>
+            <sys_id>a40fbee207e740100dddf7208c1ed0c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="em oque você esta trabalhando agora?" display_value="em oque você esta trabalhando agora?" name="x_452469_cleancont_controle_horario" sys_domain="global" view="d80fbee207e740100dddf7208c1ed09d">900fbee207e740100dddf7208c1ed0a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:57:33</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_mod_count</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:57:33</sys_created_on>
+            <sys_id>2c0fbee207e740100dddf7208c1ed0c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="em oque você esta trabalhando agora?" display_value="em oque você esta trabalhando agora?" name="x_452469_cleancont_controle_horario" sys_domain="global" view="d80fbee207e740100dddf7208c1ed09d">900fbee207e740100dddf7208c1ed0a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:57:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>em oque você esta trabalhando agora?</caption>
+            <header>false</header>
+            <name>x_452469_cleancont_controle_horario</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:57:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>900fbee207e740100dddf7208c1ed0a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>em oque você esta trabalhando agora?</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="cleanControl" source="x_452469_cleancont">f175322e07a740100dddf7208c1ed005</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="cleanControl">f175322e07a740100dddf7208c1ed005</sys_scope>
+            <sys_update_name>sys_ui_section_900fbee207e740100dddf7208c1ed0a1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:57:33</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Avancado" name="Avancado">d80fbee207e740100dddf7208c1ed09d</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="32bd72e207e740100dddf7208c1ed018" sys_domain="global" table="x_452469_cleancont_controle_horario" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:51:59</sys_created_on>
+            <sys_id>87bd72e207e740100dddf7208c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_452469_cleancont_controle_horario" sys_domain="global" view="Default view">32bd72e207e740100dddf7208c1ed018</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:51:59</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:51:59</sys_created_on>
+            <sys_id>0fbd72e207e740100dddf7208c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_452469_cleancont_controle_horario" sys_domain="global" view="Default view">32bd72e207e740100dddf7208c1ed018</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:51:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_452469_cleancont_controle_horario</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:51:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32bd72e207e740100dddf7208c1ed018</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="cleanControl" source="x_452469_cleancont">f175322e07a740100dddf7208c1ed005</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="cleanControl">f175322e07a740100dddf7208c1ed005</sys_scope>
+            <sys_update_name>sys_ui_section_32bd72e207e740100dddf7208c1ed018</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:51:59</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="cleanControl">f175322e07a740100dddf7208c1ed005</application>
+        <file_path/>
+        <instance_id>922800c6db764c903050ac44d496194e</instance_id>
+        <instance_name>dev99704</instance_name>
+        <name>sys_ui_section_32bd72e207e740100dddf7208c1ed018</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="32bd72e207e740100dddf7208c1ed018" sys_domain="global" table="x_452469_cleancont_controle_horario" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-17 18:51:59</sys_created_on><sys_id>87bd72e207e740100dddf7208c1ed091</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_452469_cleancont_controle_horario" sys_domain="global" view="Default view">32bd72e207e740100dddf7208c1ed018</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-17 18:51:59</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-17 18:51:59</sys_created_on><sys_id>0fbd72e207e740100dddf7208c1ed091</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_452469_cleancont_controle_horario" sys_domain="global" view="Default view">32bd72e207e740100dddf7208c1ed018</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-17 18:51:59</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_452469_cleancont_controle_horario</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-17 18:51:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>32bd72e207e740100dddf7208c1ed018</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Section</sys_name><sys_overrides/><sys_package display_value="cleanControl" source="x_452469_cleancont">f175322e07a740100dddf7208c1ed005</sys_package><sys_policy/><sys_scope display_value="cleanControl">f175322e07a740100dddf7208c1ed005</sys_scope><sys_update_name>sys_ui_section_32bd72e207e740100dddf7208c1ed018</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-17 18:51:59</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1197610171</payload_hash>
+        <record_name>controle_horario</record_name>
+        <reverted_from/>
+        <source>7975322e07a740100dddf7208c1ed007</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-17 18:51:59</sys_created_on>
+        <sys_id>87bd72e207e740100dddf7208c1ed093</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170e9d697230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-17 18:51:59</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>03bd72e2f4e74010decab653644bc193</update_guid>
+        <update_guid_history>03bd72e2f4e74010decab653644bc193:-1197610171</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-17 18:52:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1a2ccadc08ff47809a171a668fa39000</sys_id>
+        <sys_metadata>32bd72e207e740100dddf7208c1ed018</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="cleanControl" source="x_452469_cleancont">f175322e07a740100dddf7208c1ed005</sys_package>
+        <sys_parent display_value="Controle_horario">bf977aae07a740100dddf7208c1ed02e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="cleanControl">f175322e07a740100dddf7208c1ed005</sys_scope>
+        <sys_scope_delete display_value="">68e0effb11cc42228f228e4855bae3c4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_32bd72e207e740100dddf7208c1ed018</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_32bd72e207e740100dddf7208c1ed018">87bd72e207e740100dddf7208c1ed093</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-17 18:52:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

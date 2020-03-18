@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_452469_cleancont_projeto">x_452469_cleancont_projeto</category>
+        <maximum_digits>7</maximum_digits>
+        <number>4</number>
+        <prefix>PRO</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 12:52:51</sys_created_on>
+        <sys_id>4425f6b2072380100dddf7208c1ed026</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRO</sys_name>
+        <sys_package display_value="cleanControl" source="x_452469_cleancont">f175322e07a740100dddf7208c1ed005</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cleanControl">f175322e07a740100dddf7208c1ed005</sys_scope>
+        <sys_update_name>sys_number_4425f6b2072380100dddf7208c1ed026</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 12:52:51</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="cleanControl">f175322e07a740100dddf7208c1ed005</application>
+        <file_path/>
+        <instance_id>922800c6db764c903050ac44d496194e</instance_id>
+        <instance_name>dev99704</instance_name>
+        <name>sys_number_4425f6b2072380100dddf7208c1ed026</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_452469_cleancont_projeto">x_452469_cleancont_projeto</category><maximum_digits>7</maximum_digits><number>4</number><prefix>PRO</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-18 12:52:51</sys_created_on><sys_id>4425f6b2072380100dddf7208c1ed026</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PRO</sys_name><sys_package display_value="cleanControl" source="x_452469_cleancont">f175322e07a740100dddf7208c1ed005</sys_package><sys_policy/><sys_scope display_value="cleanControl">f175322e07a740100dddf7208c1ed005</sys_scope><sys_update_name>sys_number_4425f6b2072380100dddf7208c1ed026</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-18 12:52:51</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>-1054498469</payload_hash>
+        <record_name>PRO</record_name>
+        <reverted_from/>
+        <source>7975322e07a740100dddf7208c1ed007</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 12:52:52</sys_created_on>
+        <sys_id>dc25f6b2072380100dddf7208c1ed047</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170edb42a350000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 12:52:52</sys_updated_on>
+        <type>Number</type>
+        <update_guid>1825f6b2552380103efd662feea3ce47</update_guid>
+        <update_guid_history>1825f6b2552380103efd662feea3ce47:-1054498469</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 12:53:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>0386e9e00c9142b08017179857d70a10</sys_id>
+        <sys_metadata>4425f6b2072380100dddf7208c1ed026</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRO</sys_name>
+        <sys_package display_value="cleanControl" source="x_452469_cleancont">f175322e07a740100dddf7208c1ed005</sys_package>
+        <sys_parent display_value="">4b947272072380100dddf7208c1ed04c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="cleanControl">f175322e07a740100dddf7208c1ed005</sys_scope>
+        <sys_scope_delete display_value="">68e0effb11cc42228f228e4855bae3c4</sys_scope_delete>
+        <sys_update_name>sys_number_4425f6b2072380100dddf7208c1ed026</sys_update_name>
+        <sys_update_version display_value="sys_number_4425f6b2072380100dddf7208c1ed026">dc25f6b2072380100dddf7208c1ed047</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 12:53:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
